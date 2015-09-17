@@ -1,0 +1,19 @@
+{
+  "name": "formula-cond",
+  "version": "1.0.0",
+  "description": "A conditional formula",
+  "main": "COND.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/cond.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/cond/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/cond#readme"
+}
