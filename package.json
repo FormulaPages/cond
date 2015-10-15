@@ -4,7 +4,8 @@
   "description": "A conditional formula",
   "main": "COND.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test",
+    "build": "babel COND.es6 -m umd --out-file COND.js" 
   },
   "repository": {
     "type": "git",
