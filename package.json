@@ -1,11 +1,10 @@
 {
   "name": "formula-cond",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A conditional formula",
   "main": "COND.js",
   "scripts": {
-    "test": "mocha test",
-    "build": "babel COND.es6 -m umd --out-file COND.js" 
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
